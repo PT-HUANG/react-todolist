@@ -36,14 +36,7 @@ $ cd react-todolist
 $ npm install
 ```
 
-4. Fix npm & webpack version problems
-```
-$ npm install --save-dev webpack@latest
-$ npm update
-$ npm audit fix --force
-```
-
-5. Launch the application
+4. Launch the application
 
 ```
 $ npm run start
