@@ -7,6 +7,7 @@ const StyledHeader = styled.header`
 
   color: var(--major);
   padding: 0 16px;
+  margin-top: 1rem;
 
   h3 {
     font-weight: 400;

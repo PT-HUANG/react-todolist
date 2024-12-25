@@ -8,7 +8,7 @@ const TodoCollection = ({
   onChangeMode,
 }) => {
   return (
-    <div>
+    <div className="todoCollection">
       TodoCollection
       {todos.map((todo) => {
         return (
