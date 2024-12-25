@@ -12,6 +12,10 @@
 
 - 點擊打勾可以切換完成/未完成狀態
 
+- 能夠切換字體樣式
+
+- 能夠切換背景顏色
+
 ## Environment requirements
 
 - Node.js v18
@@ -58,4 +62,6 @@ In your browser, visit (http://localhost:3000/) to see the website.
 
 ## Screenshots
 
-![image](https://github.com/PT-HUANG/react-todolist/blob/main/screenshot.png)
+![image](https://github.com/PT-HUANG/react-todolist/blob/main/screenshot_1.png)
+![image](https://github.com/PT-HUANG/react-todolist/blob/main/screenshot_2.png)
+![image](https://github.com/PT-HUANG/react-todolist/blob/main/screenshot_3.png)
